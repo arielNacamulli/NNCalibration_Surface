@@ -17,4 +17,4 @@ The rest of the dataset is built via the "DataSet Creator.ipynb" notebook.
 
 ### Other Notebooks
 
-Other notebooks are devoted to a test on the NN architecture ("Neural Network Layer Test.ipynb") and the implementation and testing of another NN with the aim of predicting the best fitting model ("Category NN" notebooks).
+Other notebooks are devoted to a test on the NN architecture ("Neural Network Layer Test.ipynb") and the implementation and testing of another NN with the aim of predicting the best fitting model ("Category NN" notebooks)
